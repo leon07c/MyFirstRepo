@@ -1,4 +1,1 @@
-In this course, I have learned how to use Git and GitHub effectively, 
-including collaboration workflows, making commits, creating branches, 
-and managing pull requests. These skills help me work more efficiently 
-in real-world software development environments.
+I enjoy exploring new tools, solving problems, and building projects that help me grow my skills in computer science and software development. I’m always looking for opportunities to improve and challenge myself.
