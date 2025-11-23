@@ -1,4 +1,1 @@
-# Learn GitHub Collaboration
-
-## Names of contributors
-- Leon Kabugi
+This is my first repository created as part of a GitHub learning task
